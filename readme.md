@@ -12,6 +12,7 @@ It is a re-trained ResNet-18 model which was trained on a dataset of 4000 images
 
 1. Make sure that both the Jetson Inference library and Python3 are installed on your Jetson Nano.
 2. You can download jetson inference on https://github.com/imnotleo666/jetson-inference.
+  
 3. Open the terminal and navigate to the classification directory:
 
    $ cd jetson-inference/python/training/classification
@@ -28,6 +29,6 @@ It is a re-trained ResNet-18 model which was trained on a dataset of 4000 images
    
 6. additionnally, if you would like to use your own images of dogs, add them to one of the directories under the test directory and use the above command and edit "angry/0rAH60FVXqnFBJPzGVSxzEe22APpFS734.jpg" accordingly to the folder and name of your image.
 
-6.Lastly, check the ouput see the classification.
+7.Lastly, check the ouput see the classification.
 
 [View a video explanation here](video link)
