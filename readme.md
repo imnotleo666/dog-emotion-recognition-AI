@@ -1,6 +1,7 @@
 # dog-emotion-recognition-AI
 
  This model classifies dogs with emotions of anger, sadness, relaxation, and happiness.This model is likely to be of great help to dog lovers who need to identify dog's emotions.
+
 ![image](https://github.com/user-attachments/assets/d9561753-9366-41e1-8700-698378958e54)
 
 
