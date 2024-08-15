@@ -32,4 +32,4 @@ It is a re-trained ResNet-18 model which was trained on a dataset of 4000 images
 7.Lastly, check the ouput see the classification.
 
 
-https://drive.google.com/file/d/1O7oR3dA8m-33DylOTct79enIo0TEowQ1/view?usp=sharing 
+https://drive.google.com/file/d/1U3C307nInI8tedLyAMT3W553qlBq4JF0/view?usp=sharing
