@@ -1,16 +1,16 @@
-# Project Name
+# dog-emotion-recognition-AI
+This model classifies dogs with emotions of anger, sadness, relaxation, and happiness.This model is likely to be of great help to dog lovers who need to identify dog's emotions.
+ 
 
- Add short description of project here > 
 
-![add image descrition here](direct image link here)
+![image](https://github.com/user-attachments/assets/d9561753-9366-41e1-8700-698378958e54)
 
 ## The Algorithm
-
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+It is a re-trained ResNet-18 model which was trained on a dataset of 4000 images of dogs with different emotions. This project works by classifying images with ImageNet. 
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. 
+2. 
 
 [View a video explanation here](video link)
