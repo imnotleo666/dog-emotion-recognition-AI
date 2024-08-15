@@ -17,6 +17,7 @@ It is a re-trained ResNet-18 model which was trained on a dataset of 4000 images
 3. Set the net and data variables as shown below:
 
     $ NET=models/dog
+   
     $ DATASET=data/dog
    
 4.Use this command to process an image:
