@@ -15,8 +15,8 @@ It is a re-trained ResNet-18 model which was trained on a dataset of 4000 images
 2. Open the terminal and navigate to the classification directory:
 
     $ cd jetson-inference/python/training/classification
-   
-4. Set the net and data variables as shown below:
+
+3. Set the net and data variables as shown below:
 
     $ NET=models/dog
    
