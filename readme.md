@@ -19,9 +19,9 @@ It is a re-trained ResNet-18 model which was trained on a dataset of 4000 images
 
 4. Set the net and data variables as shown below:
 
-   $ NET=models/snake
+   $ NET=models/dog
 
-   $ DATASET=data/snake3
+   $ DATASET=data/dog
    
 5. Use this command to process an image:
 
